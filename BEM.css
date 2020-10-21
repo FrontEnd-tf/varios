@@ -1,0 +1,16 @@
+/* SIN BEM */
+section.informacion{}
+section.informacion article{}
+section.informacion article h2{}
+section.informacion article p{}
+
+
+/* CON BEM */
+.informacion{}
+.informacion__article{}
+.informacion__article--rojo{}
+.article__titular{}
+.article__parrafo{}
+
+/* CON BEM HELPER */
+/* Alt + b + s */
